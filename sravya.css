@@ -1,0 +1,73 @@
+
+body
+{
+	
+
+	 font-family: "Open Sans", sans-serif;
+	 font-size: 18px;
+	 
+}
+.background
+{
+	background-image : url("background1.jpg");
+
+}
+#h
+{
+	
+	color: Tomato;
+}
+#btn
+{
+	text-align: center;
+}
+#mypic
+{
+	
+	width: 200px;
+	height: 200px;
+}
+#cntc
+{
+	text-align: center;
+}
+article
+{
+	  font-family: "Open Sans", sans-serif;
+	  font-size: 15px;
+	  font-weight: normal;
+}
+header
+{
+	  background-color: #191970;
+	  font-family: "Merriweather", serif;
+	 /* padding: 5px 25px;*/
+   
+	color: #fff;
+	  font-size: 20px;
+	 /* top: 251px;*/
+	  text-align: center;
+}
+#past-section
+{
+	text-align: left;
+
+    font-size: 1.7em;
+	/*width: 210px;*/
+}
+#future-section
+{
+	font-size: 150%;
+    margin-bottom: 1.2em;
+}
+.section-header
+{
+    white-space: nowrap;
+   overflow: hidden;
+}
+footer
+{
+	  font-family: "Trebuchet MS", Helvetica, sans-serif;
+	  font-size: 15px;	 
+	  position: absolute;    
+}
